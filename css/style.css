@@ -48,3 +48,12 @@
     align-self: flex-end;
 }
 /* fine section alignment */
+/* section justify content  */
+#space-around{
+    justify-content: space-around;
+}
+
+#space-between{
+    justify-content: space-between;
+}
+/* fine section justify content  */
