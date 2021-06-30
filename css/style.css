@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box,
+.box-nested {
+    background-color: #006cfa;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    padding: 14px;
+}
+
+.box-nested {
+    background-color: #00e156;
+    border-color: #006cfa;
+}
