@@ -10,10 +10,14 @@
     border: 1px solid white;
     text-align: center;
     color: white;
-    padding: 14px;
+    padding: 13px;
 }
 
 .box-nested {
     background-color: #00e156;
     border-color: #006cfa;
+}
+
+#second {
+    margin: 15px 0;
 }
